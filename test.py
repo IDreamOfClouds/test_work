@@ -11,4 +11,6 @@ urllib.request.urlretrieve(url, filename)
 
 dataset=Dataset(filename)
 
+print('hello')
+
 #print(dataset.dimensions.keys())
